@@ -1,0 +1,65 @@
+{
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "cmake.showOptionsMovedNotification": false,
+  "workbench.editorAssociations": {
+    "*.dat2": "default"
+  },
+  "explorer.confirmDelete": false,
+  "editor.stickyScroll.enabled": false,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.fontFamily": "Consolas, 'cascadia code', monospace",
+  "editor.fontSize": 18,
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "eslint.run": "onSave",
+  "explorer.confirmDragAndDrop": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editor.customLabels.patterns": {
+    "**/app/**/page.js": "Page ${dirname}"
+  },
+  "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
+  "workbench.activityBar.location": "hidden",
+  "workbench.editor.showIcons": false,
+  "workbench.statusBar.visible": false,
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "editor.minimap.enabled": false,
+  "workbench.sideBar.location": "left",
+  "go.toolsManagement.autoUpdate": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.hidesExplorerArrows": true,
+  "workbench.tree.enableStickyScroll": false,
+  "workbench.tree.renderIndentGuides": "none",
+  "workbench.tree.indent": 10,
+  "explorer.compactFolders": false,
+  "git.decorations.enabled": false,
+  "window.zoomLevel": 1,
+  "window.customTitleBarVisibility": "never",
+  "window.titleBarStyle": "custom",
+  "custom-ui-style.font.sansSerif": "Dank Mono",
+  "editor.codeLensFontFamily": "Dank Mono",
+  "editor.codeLensFontSize": 14,
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 1.4,
+  "prettier.documentSelectors": ["*.ts", "**/*.js"],
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "mdb.mcp.server": "prompt",
+  "git.autofetch": true
+}
